@@ -7,7 +7,7 @@ This repository contains my solutions to problems from the **CP31 sheet** by TLE
 - **Platform**: [Codeforces](https://codeforces.com/)
 - **Language**: C++
 
-# 🌟 Codeforces Profile: [shobhitraj](https://codeforces.com/profile/shobhitraj)
+## 🌟 Codeforces Profile: [shobhitraj](https://codeforces.com/profile/shobhitraj)
 
 ## 📂 Structure
 The repository is organized by difficulty level. Each folder corresponds to a specific difficulty:
